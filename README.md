@@ -3,7 +3,8 @@
 
 
 
-![Devops](https://github.com/user-attachments/assets/0f9cce6e-e264-4107-9522-bc5e95ccdfca)
+![Yellow   Black Simple Profile LinkedIn Banner](https://github.com/user-attachments/assets/f8a66531-6439-47a8-8736-1a4f378de970)
+
 
 
 
