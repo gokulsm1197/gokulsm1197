@@ -3,7 +3,8 @@
 
 
 
-![Yellow   Black Simple Profile LinkedIn Banner](https://github.com/user-attachments/assets/f8a66531-6439-47a8-8736-1a4f378de970)
+![Blue Modern Motivational LinkedIn Banner](https://github.com/user-attachments/assets/0b16de82-68cd-4720-9f36-b354affbc506)
+
 
 
 
