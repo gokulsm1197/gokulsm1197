@@ -12,8 +12,24 @@
 
 
 
+I specialize in building full-stack web applications using the MERN stack — a powerful JavaScript-based technology suite. My expertise includes!
 
 I'm a passionate **DevOps Engineer** with a love for automating infrastructure, improving CI/CD processes, and building scalable systems. I enjoy working with **cloud technologies**, **container orchestration**, and **infrastructure as code**. Let's collaborate on exciting projects!
+
+
+
+## Technologies I use to build dynamic, scalable web applications:
+
+Frontend: React.js – for creating responsive, component-based UIs
+
+-**Backend**: Express.js & Node.js – for RESTful APIs and server-side logic
+
+-**Database**: MongoDB – a flexible NoSQL database for data storage
+
+-**Integration**: Full JavaScript stack enables seamless development across frontend and backend
+
+-**Tools**: Postman for API testing, Mongoose for MongoDB object modeling, and Git for version control
+
 
 ## 🛠️ Technologies & Tools
 Here's what I work with:
