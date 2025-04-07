@@ -20,7 +20,7 @@ I'm a passionate **DevOps Engineer** with a love for automating infrastructure, 
 
 ## Technologies I use to build dynamic, scalable web applications:
 
-Frontend: React.js – for creating responsive, component-based UIs
+- **Frontend**: React.js – for creating responsive, component-based UIs
 
 - **Backend**: Express.js & Node.js – for RESTful APIs and server-side logic
 
