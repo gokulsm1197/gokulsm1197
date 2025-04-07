@@ -22,13 +22,13 @@ I'm a passionate **DevOps Engineer** with a love for automating infrastructure, 
 
 Frontend: React.js – for creating responsive, component-based UIs
 
--**Backend**: Express.js & Node.js – for RESTful APIs and server-side logic
+- **Backend**: Express.js & Node.js – for RESTful APIs and server-side logic
 
--**Database**: MongoDB – a flexible NoSQL database for data storage
+- **Database**: MongoDB – a flexible NoSQL database for data storage
 
--**Integration**: Full JavaScript stack enables seamless development across frontend and backend
+- **Integration**: Full JavaScript stack enables seamless development across frontend and backend
 
--**Tools**: Postman for API testing, Mongoose for MongoDB object modeling, and Git for version control
+- **Tools**: Postman for API testing, Mongoose for MongoDB object modeling, and Git for version control
 
 
 ## 🛠️ Technologies & Tools
